@@ -1,9 +1,9 @@
 {
-    "name": "bhargav/git-from-scratch",
+    "name": "divya/git-from-scratch",
     "authors": [
         {
-            "name": "Bhargav",
-            "email": "bhargav.nanekalva@mpokket.com"
+            "name": "Divya",
+            "email": "divyapitti@gmail.com"
         }
     ],
     "autoload": {
