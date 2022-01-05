@@ -1,5 +1,6 @@
 <?php
 
+echo "Hello World";
 require_once("vendor/autoload.php");
 
 use Calculator\Calculator;
